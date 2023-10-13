@@ -103,7 +103,7 @@ class MainActivity : ComponentActivity() {
                         style = TextStyle(
                             fontSize = 20.sp),
                         modifier = Modifier
-                            .padding(15.dp)
+                            .padding(16.dp)
                     )
 
                     TextField(
